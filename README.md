@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -67,7 +65,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# react-redux-sample-proj
-Using react and redux performing CRUD Operations
->>>>>>> 683c3dea189281ba5c00ccb644aad354af2e30fa
+
